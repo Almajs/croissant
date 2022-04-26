@@ -1,0 +1,29 @@
+body {
+  background: beige;
+}
+
+h1 {
+  text-align: center;
+  padding: 20px;
+  margin: 20px;
+}
+p {
+  text-align: center;
+}
+.links {
+  display: block;
+  text-align: center;
+  margin: 0 10px;
+  padding: auto;
+}
+.croissant-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+.contact-link {
+  margin: 20px;
+  padding: 10px;
+  text-align: center;
+}
